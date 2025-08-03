@@ -1,6 +1,6 @@
 
 
-#Most important things:
+# Most important things:
 The foundation is taken from the SBA repository to have a universal fingerprint scheme.
 Everything related this assignment is in the correlation_attacks folder.
 To check the attacks check: correlation_attacks/notebooks/attack_final.ipynb
