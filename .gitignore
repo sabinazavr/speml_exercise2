@@ -1,0 +1,17 @@
+venv/
+Pipfile
+.idea/
+AK/__pycache__/
+__pycache__/
+.ipynb_checkpoints/
+tex-tables/
+architecture/
+evaluation/
+eval/
+models/
+main.py
+parameter_guidelines/fingerprinted_data/
+scheme/archive_schemes/
+parameter_guidelines/evaluation/german_credit/backup/
+parameter_guidelines/archive/
+parameter_guidelines/evaluation/adult/
