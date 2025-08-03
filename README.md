@@ -7,7 +7,7 @@ To check the attacks check: correlation_attacks/notebooks/attack_final.ipynb
 
 
 
-
+# Taken from: https://github.com/sbaresearch/data-fingerprinting
 # [Fingerprinting Relational Data](https://www.google.com/maps/@43.7032839,15.726723,623m/data=!3m1!1e3)
 Fingerprinting toolbox is a library that allows embedding and extracting fingerprints into the relational data.
 
@@ -40,9 +40,3 @@ suspect = scheme.detection("suspicious_data.csv", secret_key=4370315727)
 
 
 For more examples and detailed explanations check out the notebook [example.ipynb](https://github.com/tanjascats/fingerprinting-toolbox/blob/master/example.ipynb).
-
-## Support & Contribution
-The toolbox is in its early stage, but actively developing, so you can either:
-- Report the issues at [Issues](https://github.com/tanjascats/fingerprinting-toolbox/issues) or
-- Contact me by email: TSarcevic@sba-research.org for questions, suggestions or issues
-- Pull requests are welcome
